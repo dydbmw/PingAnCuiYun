@@ -12,7 +12,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://clueupload.paljcy.cn/appStore/ipa/2017/6/22/221313421654.ipa</string>
+						<string>http://clueupload.paljcy.cn/appStore/ipa/2017/6/22/224732916628.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -20,7 +20,7 @@
 					<key>bundle-identifier</key>
 					<string>com.tianque.clue.chongqing</string>
 					<key>bundle-version</key>
-					<string>1.0.0</string>
+					<string>1.0.1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
